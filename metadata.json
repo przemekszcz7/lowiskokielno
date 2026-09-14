@@ -1,0 +1,6 @@
+{
+  "name": "Łowisko Kielno",
+  "description": "Oficjalna strona Łowiska Kielno — 12-hektarowego łowiska wędkarskiego z restauracją nad brzegiem jeziora w pobliżu Trójmiasta (Kielno, ul. Oliwska 30).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
